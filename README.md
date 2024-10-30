@@ -1,7 +1,8 @@
 # 2D file explorer for VSCode
 
-This is Work In Progress 2D file explorer for VSCode. It provides tree and dendrogram views of the workspace
-It was spawned because I find it hard to explore mono-repos in VSCode simply because the file explorer tree view gets crowded real quick
+This is Work In Progress 2D file explorer for VSCode. It provides tree and dendrogram views of the workspace.
+
+It was spawned because I find it hard to explore mono-repos in VSCode simply because the file explorer tree view gets crowded real quick.
 
 ## TODO
 - [ ] Make nodes clickable
